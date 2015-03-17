@@ -1,9 +1,8 @@
-﻿using System.Transactions;
-
 namespace ATM
 {
     using System;
     using System.Data.SqlClient;
+    ﻿using System.Transactions;
 
     class ATMWithdrawal
     {
