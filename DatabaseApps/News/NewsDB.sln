@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.ConsoleApp", "NewsDB\NewsDB.ConsoleApp.csproj", "{D4473C2C-3AD6-4CB9-80E1-79B1F4474BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Model", "NewsDB.Model\NewsDB.Model.csproj", "{8855F512-4AC1-479B-B025-794E14CE6EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4473C2C-3AD6-4CB9-80E1-79B1F4474BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4473C2C-3AD6-4CB9-80E1-79B1F4474BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4473C2C-3AD6-4CB9-80E1-79B1F4474BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4473C2C-3AD6-4CB9-80E1-79B1F4474BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8855F512-4AC1-479B-B025-794E14CE6EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8855F512-4AC1-479B-B025-794E14CE6EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8855F512-4AC1-479B-B025-794E14CE6EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8855F512-4AC1-479B-B025-794E14CE6EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
